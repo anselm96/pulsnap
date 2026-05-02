@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "pulsnap",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d5dfda49-2441-4c32-9b77-e2e16fb69c89",
+			"database_name": "pulsnap-waitlist"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
